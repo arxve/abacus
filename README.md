@@ -8,7 +8,7 @@ To use the calculator, simply run the `calculator.py` file. You will be presente
 
 If the operation requires two numbers, you will be prompted to enter them. Otherwise, you will only need to enter one number.
 
-The result of the operation will be printed to the console.
+The result of the operation will be printed on the console.
 
 ## Options
 
@@ -72,7 +72,7 @@ The calculator program is implemented using the following functions:
 * `natural_logarithm(x):` This function takes a number x as an argument and returns its natural logarithm using the math.log() function.
 * `base_10_logarithm(x)`: This function calculates the base 10 logarithm of a positive number x using the math.log10() function.
 
-The program first prompts the user to select an operation. It then prompts the user to enter the two numbers. Finally, it calls the appropriate function to perform the operation and displays the result.
+The program first prompts the user to select an operation. It then prompts the user to enter the two numbers. Finally, it calls the appropriate function to operate and displays the result.
 
 ## Error Handling
 
